@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@overextended/oxmysql": "^1.1.1"
+  }
+}
